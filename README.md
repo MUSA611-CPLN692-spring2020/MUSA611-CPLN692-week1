@@ -1,5 +1,7 @@
 # Introduction to Web Mapping - Week 1
 
+## Hsingprovsky
+
 ### Readings/Homework
 
 #### Code Academy
@@ -58,5 +60,3 @@ of graphics cards to generate powerful vizualisations incredibly quickly). Mapbo
 more involved and we won't be touching on it until the second half of the course but the
 [examples provided by Mapbox](https://www.mapbox.com/mapbox-gl-js/example/simple-map/) are
 worth clicking through for inspiration and a sense of where we're headed.
-
-
