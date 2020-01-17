@@ -9,7 +9,7 @@ Professionally, the command line client is most commonly used to manage the crea
 
 ####Useful links
 [Code Academy](https://www.codecademy.com/learn/learn-git)
-[Github Guide](https://guides.github.com/introduction/flow/?utm_source=onboarding-series&utm_medium=email&utm_content=read-the-guide-cta&utm_campaign=learn-github-flow-email)
+[Github Guides](https://guides.github.com/)
 
 ####Git terminology
 *Repository* - A collection of files along with metadata which allows git to keep 'snapshots' of all the changes these files have undergone. Git allows us to travel back in time to previous edits if we've made a huge blunder, to examine each change a collection of files has undergone in detail, and to associate a set of changes with the person who made them.  
