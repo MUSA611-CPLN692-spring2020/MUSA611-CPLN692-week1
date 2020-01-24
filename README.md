@@ -45,7 +45,7 @@ To add an additional marker, copy the code you used to create the first marker o
 line. Change the coordinates for your new markers. When you are finished, save your file and
 reload the browser. You should see three markers.
 
-
+--DONE
 #### Extra
 
 In this class, we are using a Javascript library called [Leaflet](http://leafletjs.com/) to handle
@@ -58,5 +58,3 @@ of graphics cards to generate powerful vizualisations incredibly quickly). Mapbo
 more involved and we won't be touching on it until the second half of the course but the
 [examples provided by Mapbox](https://www.mapbox.com/mapbox-gl-js/example/simple-map/) are
 worth clicking through for inspiration and a sense of where we're headed.
-
-
